@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Do not block CSS, JavaScript, or images.
+# [PLACEHOLDER] After the live domain is connected, submit this sitemap in Google Search Console and Bing Webmaster Tools.
+Sitemap: https://www.medicinalco.com/sitemap.xml
